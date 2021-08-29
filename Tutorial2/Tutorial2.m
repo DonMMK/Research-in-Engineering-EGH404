@@ -28,12 +28,39 @@ plot(ColA);
 %% perform outlier test on column A 
 
 % mean
-meancolA = mean(ColA)
+meancolA = mean(ColA);
 % max and min values
 
 % median 
 
 % Standard deviation
-StandardA = std(ColA)
+StandardA = std(ColA);
 % IQR
+
+%% Remove nans 
+% Save the columns to individual arrays
+Var = data.Var1;
+
+A = data.A;
+B = data.B;
+C = data.C;
+D = data.D;
+
+
+for i = 1:length(data) 
+    % logical values -- isnan? missing? 
+    Varnan = ismissing(Var);
+    Anan = isnan(A(i)); 
+    
+    if ( (Varnan == 1) && (Anan == 1) && (Cnan == 1) && (Dnan == 1))
+        
+    else
+        
+    end
+end
+
+
+
+
+
 
