@@ -1,0 +1,422 @@
+Level,ANZSIC 06 Code,    Industry ,Employment level - November 2020 ('000),National Skills Commission Projections,,
+,,,,Projected employment level - November 2025 ('000),Projected employment growth - five years to November 2025,
+,,,,,('000),(%)
+1,A,"Agriculture, Forestry and Fishing",345.1,349.2,4.1,1.2
+2,01,Agriculture,309.0,315.8,6.8,2.2
+3,010,"Agriculture, nfd",30.5,30.9,0.4,1.2
+3,011,Nursery and Floriculture Production,9.3,8.6,-0.7,-7.6
+3,012,Mushroom and Vegetable Growing,21.0,21.2,0.2,1.2
+3,013,Fruit and Tree Nut Growing,45.5,46.3,0.7,1.6
+3,014,"Sheep, Beef Cattle and Grain Farming",159.8,168.0,8.2,5.1
+3,015,Other Crop Growing,7.2,7.4,0.2,2.8
+3,016,Dairy Cattle Farming,17.8,16.1,-1.7,-9.4
+3,017,Poultry Farming,8.2,7.0,-1.2,-14.6
+3,018,Deer Farming,0.1,0.1,0.0,-5.1
+3,019,Other Livestock Farming,12.5,13.1,0.6,4.9
+2,02,Aquaculture,4.9,4.4,-0.5,-10.1
+3,020,Aquaculture,4.9,4.4,-0.5,-10.1
+2,03,Forestry and Logging,3.6,3.5,0.0,-1.2
+3,030,Forestry and Logging,3.6,3.5,0.0,-1.2
+2,04,"Fishing, Hunting and Trapping",8.6,8.6,0.0,0.2
+3,040,"Fishing, Hunting and Trapping, nfd",0.6,0.6,0.0,1.2
+3,041,Fishing,7.3,7.3,0.0,0.2
+3,042,Hunting and Trapping,0.5,0.5,0.0,-0.3
+2,05,"Agriculture, Forestry and Fishing Support Services",21.9,19.7,-2.2,-10.1
+3,050,"Agriculture, Forestry and Fishing Support Services, nfd",0.1,0.1,0.0,-4.4
+3,051,Forestry Support Services,5.9,5.9,0.0,0.0
+3,052,Agriculture and Fishing Support Services,16.6,14.4,-2.2,-13.3
+2,A0,"Agriculture, Forestry and Fishing, nfd",0.1,0.1,0.0,0.0
+3,A00,"Agriculture, Forestry and Fishing, nfd",0.1,0.1,0.0,0.0
+1,B,Mining,261.9,283.6,21.7,8.3
+2,06,Coal Mining,62.8,67.5,4.7,7.5
+3,060,Coal Mining,62.8,67.5,4.7,7.5
+2,07,Oil and Gas Extraction,28.7,31.3,2.7,9.3
+3,070,Oil and Gas Extraction,28.7,31.3,2.7,9.3
+2,08,Metal Ore Mining,100.0,110.6,10.6,10.6
+3,080,Metal Ore Mining,100.0,110.6,10.6,10.6
+2,09,Non-Metallic Mineral Mining and Quarrying,11.1,11.4,0.3,3.1
+3,090,"Non-Metallic Mineral Mining and Quarrying, nfd",1.8,1.8,0.0,0.0
+3,091,Construction Material Mining,5.2,5.4,0.3,5.1
+3,099,Other Non-Metallic Mineral Mining and Quarrying,4.2,4.2,0.1,1.9
+2,10,Exploration and Other Mining Support Services,53.6,57.0,3.4,6.3
+3,100,"Exploration and Other Mining Support Services, nfd",0.8,0.8,0.0,0.0
+3,101,Exploration,14.8,15.0,0.3,1.8
+3,109,Other Mining Support Services,38.5,41.6,3.1,8.1
+2,B0,"Mining, nfd",0.4,0.4,0.0,0.0
+3,B00,"Mining, nfd",0.4,0.4,0.0,0.0
+1,C,Manufacturing,848.1,842.2,-5.9,-0.7
+2,11,Food Product Manufacturing,192.1,188.6,-3.4,-1.8
+3,110,"Food Product Manufacturing, nfd",17.0,15.4,-1.6,-9.3
+3,111,Meat and Meat Product Manufacturing,57.2,58.0,0.8,1.4
+3,112,Seafood Processing,1.2,1.2,0.0,-3.5
+3,113,Dairy Product Manufacturing,18.0,17.0,-1.0,-5.3
+3,114,Fruit and Vegetable Processing,6.7,6.4,-0.3,-4.6
+3,115,Oil and Fat Manufacturing,1.3,1.3,0.0,0.0
+3,116,Grain Mill and Cereal Product Manufacturing,5.0,4.5,-0.5,-9.3
+3,117,Bakery Product Manufacturing,57.3,55.8,-1.5,-2.6
+3,118,Sugar and Confectionery Manufacturing,10.5,10.6,0.1,0.7
+3,119,Other Food Product Manufacturing,16.7,17.3,0.6,3.4
+2,12,Beverage and Tobacco Product Manufacturing,30.8,32.7,1.9,6.1
+3,120,"Beverage and Tobacco Product Manufacturing, nfd",0.2,0.2,0.0,5.9
+3,121,Beverage Manufacturing,30.6,32.5,1.9,6.1
+3,122,Cigarette and Tobacco Product Manufacturing,0.1,0.1,0.0,0.0
+2,13,"Textile, Leather, Clothing and Footwear Manufacturing",30.7,26.0,-4.7,-15.3
+3,130,"Textile, Leather, Clothing and Footwear Manufacturing, nfd",0.1,0.1,0.0,-13.2
+3,131,Textile Manufacturing,2.0,2.0,0.0,0.3
+3,132,"Leather Tanning, Fur Dressing and Leather Product Manufacturing",1.4,1.3,-0.1,-7.6
+3,133,Textile Product Manufacturing,9.5,8.8,-0.7,-6.9
+3,134,Knitted Product Manufacturing,0.2,0.2,0.0,-3.4
+3,135,Clothing and Footwear Manufacturing,16.8,12.9,-3.9,-23.3
+2,14,Wood Product Manufacturing,39.6,38.6,-1.0,-2.6
+3,140,"Wood Product Manufacturing, nfd",0.1,0.1,0.0,0.0
+3,141,Log Sawmilling and Timber Dressing,7.7,8.2,0.4,5.2
+3,149,Other Wood Product Manufacturing,30.9,29.5,-1.4,-4.6
+2,15,"Pulp, Paper and Converted Paper Product Manufacturing",19.1,20.5,1.4,7.4
+3,150,"Pulp, Paper and Converted Paper Product Manufacturing, nfd",5.2,5.6,0.4,7.2
+3,151,"Pulp, Paper and Paperboard Manufacturing",5.1,5.6,0.5,10.4
+3,152,Converted Paper Product Manufacturing,8.6,9.1,0.5,5.8
+2,16,Printing (including the Reproduction of Recorded Media),29.3,24.9,-4.5,-15.3
+3,160,"Printing (including the Reproduction of Recorded Media), nfd",0.1,0.1,0.0,0.0
+3,161,Printing and Printing Support Services,29.5,25.0,-4.5,-15.2
+3,162,Reproduction of Recorded Media,0.1,0.1,0.0,0.0
+2,17,Petroleum and Coal Product Manufacturing,6.9,7.1,0.2,3.5
+3,170,Petroleum and Coal Product Manufacturing,6.9,7.1,0.2,3.5
+2,18,Basic Chemical and Chemical Product Manufacturing,63.4,67.3,3.8,6.1
+3,180,"Basic Chemical and Chemical Product Manufacturing, nfd",3.1,3.1,0.0,-1.3
+3,181,Basic Chemical Manufacturing,5.3,5.6,0.3,5.3
+3,182,Basic Polymer Manufacturing,3.1,3.4,0.3,9.6
+3,183,Fertiliser and Pesticide Manufacturing,1.9,1.7,-0.2,-12.0
+3,184,Pharmaceutical and Medicinal Product Manufacturing,33.1,35.5,2.4,7.2
+3,185,Cleaning Compound and Toiletry Preparation Manufacturing,9.4,9.9,0.5,5.2
+3,189,Other Basic Chemical Product Manufacturing,5.8,6.5,0.6,11.0
+2,19,Polymer Product and Rubber Product Manufacturing,33.2,31.2,-1.9,-5.9
+3,190,"Polymer Product and Rubber Product Manufacturing, nfd",1.9,1.8,0.0,-1.6
+3,191,Polymer Product Manufacturing,27.7,25.5,-2.2,-7.9
+3,192,Natural Rubber Product Manufacturing,2.9,3.1,0.3,9.1
+2,20,Non-Metallic Mineral Product Manufacturing,29.7,30.2,0.5,1.6
+3,200,"Non-Metallic Mineral Product Manufacturing, nfd",1.2,1.2,-0.1,-6.1
+3,201,Glass and Glass Product Manufacturing,9.3,9.3,0.0,0.0
+3,202,Ceramic Product Manufacturing,2.3,2.3,-0.1,-2.9
+3,203,"Cement, Lime, Plaster and Concrete Product Manufacturing",11.3,11.9,0.6,5.3
+3,209,Other Non-Metallic Mineral Product Manufacturing,8.2,8.3,0.0,0.2
+2,21,Primary Metal and Metal Product Manufacturing,75.4,81.8,6.4,8.5
+3,210,"Primary Metal and Metal Product Manufacturing, nfd",2.8,2.8,0.0,0.2
+3,211,Basic Ferrous Metal Manufacturing,32.0,34.8,2.8,8.8
+3,212,Basic Ferrous Metal Product Manufacturing,3.1,3.3,0.2,6.9
+3,213,Basic Non-Ferrous Metal Manufacturing,29.9,33.0,3.1,10.3
+3,214,Basic Non-Ferrous Metal Product Manufacturing,7.4,7.8,0.3,4.1
+2,22,Fabricated Metal Product Manufacturing,60.1,58.8,-1.3,-2.1
+3,220,"Fabricated Metal Product Manufacturing, nfd",2.5,2.7,0.2,7.8
+3,221,Iron and Steel Forging,0.3,0.3,0.0,-11.8
+3,222,Structural Metal Product Manufacturing,26.3,26.0,-0.3,-1.2
+3,223,Metal Container Manufacturing,5.7,5.0,-0.7,-12.9
+3,224,Sheet Metal Product Manufacturing (except Metal Structural and Container Products),0.7,0.6,-0.1,-9.0
+3,229,Other Fabricated Metal Product Manufacturing,24.0,23.7,-0.3,-1.3
+2,23,Transport Equipment Manufacturing,58.5,53.2,-5.2,-9.0
+3,230,"Transport Equipment Manufacturing, nfd",0.2,0.2,0.0,-11.8
+3,231,Motor Vehicle and Motor Vehicle Part Manufacturing,33.6,27.8,-5.9,-17.4
+3,239,Other Transport Equipment Manufacturing,24.1,24.7,0.6,2.6
+2,24,Machinery and Equipment Manufacturing,108.8,108.8,0.0,0.0
+3,240,"Machinery and Equipment Manufacturing, nfd",9.0,9.6,0.5,5.7
+3,241,Professional and Scientific Equipment Manufacturing,15.7,14.3,-1.4,-9.1
+3,242,Computer and Electronic Equipment Manufacturing,17.6,16.3,-1.3,-7.3
+3,243,Electrical Equipment Manufacturing,15.1,16.9,1.8,11.6
+3,244,Domestic Appliance Manufacturing,4.9,4.5,-0.4,-8.3
+3,245,"Pump, Compressor, Heating and Ventilation Equipment Manufacturing",8.6,9.4,0.9,10.3
+3,246,Specialised Machinery and Equipment Manufacturing,17.6,17.6,0.0,-0.1
+3,249,Other Machinery and Equipment Manufacturing,21.1,21.0,0.0,-0.1
+2,25,Furniture and Other Manufacturing,72.5,74.4,1.9,2.7
+3,250,"Furniture and Other Manufacturing, nfd",3.5,3.6,0.1,2.5
+3,251,Furniture Manufacturing,42.3,41.7,-0.6,-1.4
+3,259,Other Manufacturing,27.7,30.2,2.4,8.8
+2,C0,"Manufacturing, nfd",1.0,1.0,0.0,0.0
+3,C00,"Manufacturing, nfd",1.0,1.0,0.0,0.0
+1,D,"Electricity, Gas, Water and Waste Services",153.0,164.7,11.7,7.6
+2,26,Electricity Supply,64.6,69.9,5.3,8.2
+3,260,"Electricity Supply, nfd",14.7,15.9,1.2,8.0
+3,261,Electricity Generation,22.4,25.5,3.2,14.1
+3,262,Electricity Transmission,0.6,0.7,0.0,6.9
+3,263,Electricity Distribution,22.5,22.7,0.2,0.8
+3,264,On Selling Electricity and Electricity Market Operation,7.8,8.6,0.7,9.3
+2,27,Gas Supply,17.8,19.0,1.2,6.9
+3,270,Gas Supply,17.8,19.0,1.2,6.9
+2,28,"Water Supply, Sewerage and Drainage Services",36.1,38.3,2.3,6.3
+3,281,"Water Supply, Sewerage and Drainage Services",36.1,38.3,2.3,6.3
+2,29,"Waste Collection, Treatment and Disposal Services",38.0,40.9,2.9,7.7
+3,290,"Waste Collection, Treatment and Disposal Services, nfd",4.7,4.9,0.2,4.8
+3,291,Waste Collection Services,24.1,26.1,2.0,8.1
+3,292,"Waste Treatment, Disposal and Remediation Services",10.1,10.8,0.7,7.2
+2,D0,"Electricity, Gas, Water and Waste Services, nfd",0.1,0.1,0.0,6.9
+3,D00,"Electricity, Gas, Water and Waste Services, nfd",0.1,0.1,0.0,6.9
+1,E,Construction,1183.2,1263.9,80.7,6.8
+2,30,Building Construction,358.8,389.3,30.4,8.5
+3,300,"Building Construction, nfd",144.6,156.6,12.0,8.3
+3,301,Residential Building Construction,154.4,170.7,16.3,10.6
+3,302,Non-Residential Building Construction,59.9,62.0,2.1,3.5
+2,31,Heavy and Civil Engineering Construction,112.8,122.8,9.9,8.8
+3,310,Heavy and Civil Engineering Construction,112.8,122.8,9.9,8.8
+2,32,Construction Services,716.4,756.7,40.3,5.6
+3,320,"Construction Services, nfd",2.4,2.5,0.1,5.5
+3,321,Land Development and Site Preparation Services,58.1,64.8,6.7,11.5
+3,322,Building Structure Services,82.4,86.5,4.1,5.0
+3,323,Building Installation Services,284.6,308.5,23.9,8.4
+3,324,Building Completion Services,164.1,155.7,-8.4,-5.1
+3,329,Other Construction Services,121.1,135.0,13.9,11.5
+2,E0,"Construction, nfd",0.4,0.4,0.0,0.0
+3,E00,"Construction, nfd",0.4,0.4,0.0,0.0
+1,F,Wholesale Trade,372.6,375.5,2.9,0.8
+2,33,Basic Material Wholesaling,83.5,81.3,-2.2,-2.6
+3,330,"Basic Material Wholesaling, nfd",0.8,0.8,0.0,-4.6
+3,331,Agricultural Product Wholesaling,18.2,17.8,-0.3,-1.9
+3,332,"Mineral, Metal and Chemical Wholesaling",28.5,28.4,0.0,-0.1
+3,333,Timber and Hardware Goods Wholesaling,39.7,37.9,-1.8,-4.5
+2,34,Machinery and Equipment Wholesaling,99.4,100.2,0.8,0.8
+3,340,"Machinery and Equipment Wholesaling, nfd",3.0,3.0,0.0,-0.5
+3,341,Specialised Industrial Machinery and Equipment Wholesaling,31.5,34.1,2.6,8.4
+3,349,Other Machinery and Equipment Wholesaling,65.0,63.2,-1.8,-2.8
+2,35,Motor Vehicle and Motor Vehicle Parts Wholesaling,25.3,26.2,0.9,3.7
+3,350,Motor Vehicle and Motor Vehicle Parts Wholesaling,25.3,26.2,0.9,3.7
+2,36,"Grocery, Liquor and Tobacco Product Wholesaling",64.0,63.2,-0.8,-1.2
+3,360,"Grocery, Liquor and Tobacco Product Wholesaling",64.0,63.2,-0.8,-1.2
+2,37,Other Goods Wholesaling,87.1,90.8,3.7,4.2
+3,370,"Other Goods Wholesaling, nfd",3.3,3.4,0.1,4.5
+3,371,"Textile, Clothing and Footwear Wholesaling",20.0,21.0,0.9,4.7
+3,372,Pharmaceutical and Toiletry Goods Wholesaling,27.3,27.6,0.3,1.1
+3,373,"Furniture, Floor Covering and Other Goods Wholesaling",35.5,37.7,2.3,6.4
+2,38,Commission-Based Wholesaling,7.6,8.0,0.4,4.9
+3,380,Commission-Based Wholesaling,7.6,8.0,0.4,4.9
+2,F0,"Wholesale Trade, nfd",0.1,0.1,0.0,0.0
+3,F00,"Wholesale Trade, nfd",0.1,0.1,0.0,0.0
+1,G,Retail Trade,1287.7,1340.2,52.5,4.1
+2,39,Motor Vehicle and Motor Vehicle Parts Retailing,99.4,103.8,4.4,4.4
+3,390,"Motor Vehicle and Motor Vehicle Parts Retailing, nfd",0.4,0.4,0.0,4.4
+3,391,Motor Vehicle Retailing,69.2,71.7,2.5,3.6
+3,392,Motor Vehicle Parts and Tyre Retailing,29.4,31.3,1.9,6.6
+2,40,Fuel Retailing,34.1,32.7,-1.4,-4.2
+3,400,Fuel Retailing,34.1,32.7,-1.4,-4.2
+2,41,Food Retailing,389.7,403.9,14.2,3.6
+3,410,"Food Retailing, nfd",2.9,3.0,0.1,3.0
+3,411,Supermarket and Grocery Stores,305.6,319.6,13.9,4.6
+3,412,Specialised Food Retailing,81.9,82.1,0.2,0.2
+2,42,Other Store-Based Retailing,732.5,765.5,33.1,4.5
+3,420,"Other Store-Based Retailing, nfd",6.8,7.1,0.4,5.2
+3,421,"Furniture, Floor Coverings, Houseware and Textile Goods Retailing",59.7,60.7,1.0,1.7
+3,422,Electrical and Electronic Goods Retailing,54.4,55.0,0.7,1.2
+3,423,"Hardware, Building and Garden Supplies Retailing",91.5,99.8,8.3,9.1
+3,424,Recreational Goods Retailing,55.1,60.3,5.3,9.6
+3,425,"Clothing, Footwear and Personal Accessory Retailing",160.8,158.4,-2.4,-1.5
+3,426,Department Stores,78.7,74.6,-4.1,-5.3
+3,427,Pharmaceutical and Other Store-Based Retailing,230.6,254.6,24.0,10.4
+2,43,Non-Store Retailing and Retail Commission-Based Buying and/or Selling,23.7,26.0,2.2,9.4
+3,430,"Non-Store Retailing and Retail Commission-Based Buying and/or Selling, nfd",0.7,0.7,0.0,0.0
+3,431,Non-Store Retailing,21.4,23.6,2.2,10.3
+3,432,Retail Commission-Based Buying and/or Selling,1.4,1.5,0.0,3.0
+2,G0,"Retail Trade, nfd",0.1,0.1,0.0,0.0
+3,G00,"Retail Trade, nfd",0.1,0.1,0.0,0.0
+1,H,Accommodation and Food Services,831.9,971.8,139.9,16.8
+2,44,Accommodation,77.1,101.0,23.8,30.9
+3,440,Accommodation,77.1,101.0,23.8,30.9
+2,45,Food and Beverage Services,730.3,846.4,116.0,15.9
+3,450,"Food and Beverage Services, nfd",1.1,1.1,0.0,0.0
+3,451,"Cafes, Restaurants and Takeaway Food Services",581.6,695.7,114.1,19.6
+3,452,"Pubs, Taverns and Bars",104.2,105.4,1.2,1.1
+3,453,Clubs (Hospitality),46.2,46.9,0.8,1.7
+2,H0,"Accommodation and Food Services, nfd",0.1,0.1,0.0,0.0
+3,H00,"Accommodation and Food Services, nfd",0.1,0.1,0.0,0.0
+1,I,"Transport, Postal and Warehousing",647.1,694.4,47.3,7.3
+2,46,Road Transport,293.1,314.0,20.9,7.1
+3,460,"Road Transport, nfd",7.9,8.5,0.6,7.8
+3,461,Road Freight Transport,190.0,202.3,12.3,6.5
+3,462,Road Passenger Transport,93.0,101.0,8.0,8.6
+2,47,Rail Transport,48.5,52.1,3.7,7.6
+3,470,"Rail Transport, nfd",30.3,32.6,2.3,7.6
+3,471,Rail Freight Transport,6.4,6.7,0.2,3.8
+3,472,Rail Passenger Transport,13.6,14.7,1.1,8.2
+2,48,Water Transport,14.6,15.3,0.7,4.5
+3,480,"Water Transport, nfd",5.1,5.3,0.2,4.5
+3,481,Water Freight Transport,4.5,4.7,0.2,5.0
+3,482,Water Passenger Transport,3.6,3.8,0.2,5.7
+2,49,Air and Space Transport,39.1,42.1,3.0,7.7
+3,490,Air and Space Transport,39.1,42.1,3.0,7.7
+2,50,Other Transport,9.3,9.5,0.1,1.5
+3,500,"Other Transport, nfd",0.1,0.1,0.0,1.6
+3,501,Scenic and Sightseeing Transport,7.7,8.0,0.2,3.0
+3,502,Pipeline and Other Transport,0.6,0.5,-0.1,-14.4
+2,51,Postal and Courier Pick-up and Delivery Services,99.2,105.1,6.0,6.0
+3,510,Postal and Courier Pick-up and Delivery Services,99.2,105.1,6.0,6.0
+2,52,Transport Support Services,71.9,73.3,1.4,2.0
+3,520,"Transport Support Services, nfd",0.8,0.8,0.0,0.0
+3,521,Water Transport Support Services,11.4,11.4,0.1,0.5
+3,522,Airport Operations and Other Air Transport Support Services,13.3,13.6,0.3,2.1
+3,529,Other Transport Support Services,44.6,45.7,1.1,2.5
+2,53,Warehousing and Storage Services,72.6,84.2,11.5,15.9
+3,530,Warehousing and Storage Services,72.6,84.2,11.5,15.9
+2,I0,"Transport, Postal and Warehousing, nfd",0.2,0.2,0.0,3.5
+3,I00,"Transport, Postal and Warehousing, nfd",0.2,0.2,0.0,3.5
+1,J,Information Media and Telecommunications,195.5,188.0,-7.5,-3.9
+2,54,Publishing (except Internet and Music Publishing),18.7,14.5,-4.2,-22.4
+3,540,"Publishing (except Internet and Music Publishing), nfd",2.6,2.4,-0.2,-9.0
+3,541,"Newspaper, Periodical, Book and Directory Publishing",15.7,11.8,-3.9,-25.0
+3,542,Software Publishing,0.1,0.1,0.0,1.8
+2,55,Motion Picture and Sound Recording Activities,32.2,34.4,2.2,6.9
+3,550,"Motion Picture and Sound Recording Activities, nfd",0.1,0.1,0.0,0.0
+3,551,Motion Picture and Video Activities,31.5,33.7,2.3,7.2
+3,552,Sound Recording and Music Publishing,0.7,0.6,0.0,-7.3
+2,56,Broadcasting (except Internet),26.7,26.9,0.2,0.8
+3,560,"Broadcasting (except Internet), nfd",0.8,0.8,0.0,0.8
+3,561,Radio Broadcasting,6.1,6.2,0.1,1.2
+3,562,Television Broadcasting,20.0,20.1,0.1,0.6
+2,57,Internet Publishing and Broadcasting,2.9,2.9,0.0,1.3
+3,570,Internet Publishing and Broadcasting,2.9,2.9,0.0,1.3
+2,58,Telecommunications Services,88.1,82.1,-6.0,-6.8
+3,580,Telecommunications Services,88.1,82.1,-6.0,-6.8
+2,59,"Internet Service Providers, Web Search Portals and Data Processing Services",8.9,8.9,0.0,0.0
+3,590,"Internet Service Providers, Web Search Portals and Data Processing Services, nfd",0.1,0.1,0.0,0.0
+3,591,Internet Service Providers and Web Search Portals,7.5,7.8,0.3,3.6
+3,592,"Data Processing, Web Hosting and Electronic Information Storage Services",3.6,3.3,-0.3,-7.6
+2,60,Library and Other Information Services,15.0,15.2,0.2,1.2
+3,600,"Library and Other Information Services, nfd",0.1,0.1,0.0,0.0
+3,601,Libraries and Archives,15.0,15.2,0.2,1.2
+3,602,Other Information Services,0.1,0.1,0.0,-9.7
+2,J0,"Information Media and Telecommunications, nfd",0.1,0.1,0.0,-3.9
+3,J00,"Information Media and Telecommunications, nfd",0.1,0.1,0.0,-3.9
+1,K,Financial and Insurance Services,490.0,518.8,28.8,5.9
+2,62,Finance,192.3,191.0,-1.4,-0.7
+3,620,"Finance, nfd",3.1,3.1,0.0,0.0
+3,621,Central Banking,2.0,2.1,0.0,1.5
+3,622,Depository Financial Intermediation,179.1,177.4,-1.7,-1.0
+3,623,Non-Depository Financing,6.3,6.6,0.3,4.4
+3,624,Financial Asset Investing,7.1,7.2,0.0,0.6
+2,63,Insurance and Superannuation Funds,115.1,126.6,11.4,9.9
+3,630,"Insurance and Superannuation Funds, nfd",3.4,3.4,0.0,0.0
+3,631,Life Insurance,4.7,5.0,0.3,5.6
+3,632,Health and General Insurance,92.0,103.2,11.2,12.2
+3,633,Superannuation Funds,16.4,16.3,0.0,-0.2
+2,64,Auxiliary Finance and Insurance Services,183.2,202.0,18.7,10.2
+3,640,"Auxiliary Finance and Insurance Services, nfd",1.2,1.2,0.0,-1.3
+3,641,Auxiliary Finance and Investment Services,159.0,177.6,18.6,11.7
+3,642,Auxiliary Insurance Services,22.8,23.0,0.1,0.6
+2,K0,"Financial and Insurance Services, nfd",0.1,0.1,0.0,5.9
+3,K00,"Financial and Insurance Services, nfd",0.1,0.1,0.0,5.9
+1,L,"Rental, Hiring and Real Estate Services",209.1,222.7,13.5,6.5
+2,66,Rental and Hiring Services (except Real Estate),38.5,40.3,1.8,4.8
+3,660,"Rental and Hiring Services (except Real Estate), nfd",0.1,0.1,0.0,4.8
+3,661,Motor Vehicle and Transport Equipment Rental and Hiring,8.6,8.8,0.2,2.3
+3,662,Farm Animal and Bloodstock Leasing,0.1,0.1,0.0,0.0
+3,663,Other Goods and Equipment Rental and Hiring,30.1,31.7,1.6,5.5
+3,664,Non-Financial Intangible Assets (Except Copyrights) Leasing,0.1,0.1,0.0,-1.6
+2,67,Property Operators and Real Estate Services,168.5,180.2,11.7,6.9
+3,670,"Property Operators and Real Estate Services, nfd",1.2,1.2,0.0,0.0
+3,671,Property Operators,43.8,47.2,3.4,7.8
+3,672,Real Estate Services,124.0,132.2,8.2,6.6
+2,L0,"Rental, Hiring and Real Estate Services, nfd",0.1,0.1,0.0,0.0
+3,L00,"Rental, Hiring and Real Estate Services, nfd",0.1,0.1,0.0,0.0
+1,M,"Professional, Scientific and Technical Services",1194.2,1325.3,131.1,11.0
+2,69,"Professional, Scientific and Technical Services (Except Computer System Design and Related Services)",881.4,965.2,83.9,9.5
+3,690,"Professional, Scientific and Technical Services (Except Computer System Design and Related Services), nfd",1.1,1.1,0.0,0.0
+3,691,Scientific Research Services,38.2,40.3,2.2,5.7
+3,692,"Architectural, Engineering and Technical Services",285.1,310.8,25.7,9.0
+3,693,Legal and Accounting Services,294.3,319.7,25.3,8.6
+3,694,Advertising Services,39.3,42.6,3.2,8.2
+3,695,Market Research and Statistical Services,41.9,44.5,2.6,6.3
+3,696,Management and Related Consulting Services,126.1,144.0,17.9,14.2
+3,697,Veterinary Services,28.8,31.5,2.7,9.3
+3,699,"Other Professional, Scientific and Technical Services",31.7,35.9,4.2,13.3
+2,70,Computer System Design and Related Services,295.7,342.9,47.2,16.0
+3,700,Computer System Design and Related Services,295.7,342.9,47.2,16.0
+2,M0,"Professional, Scientific and Technical Services, nfd",0.1,0.1,0.0,11.0
+3,M00,"Professional, Scientific and Technical Services, nfd",0.1,0.1,0.0,11.0
+1,N,Administrative and Support Services,450.5,487.3,36.8,8.2
+2,72,Administrative Services,200.8,207.9,7.2,3.6
+3,720,"Administrative Services, nfd",1.4,1.4,0.0,0.0
+3,721,Employment Services,97.2,99.5,2.2,2.3
+3,722,Travel Agency and Tour Arrangement Services,39.9,40.2,0.3,0.6
+3,729,Other Administrative Services,63.8,68.5,4.7,7.3
+2,73,"Building Cleaning, Pest Control and Other Support Services",246.9,276.6,29.7,12.0
+3,730,"Building Cleaning, Pest Control and Other Support Services, nfd",0.1,0.1,0.0,0.0
+3,731,"Building Cleaning, Pest Control and Gardening Services",232.4,262.0,29.6,12.7
+3,732,Packaging Services,14.0,14.1,0.1,0.7
+2,N0,"Administrative and Support Services, nfd",0.1,0.1,0.0,0.0
+3,N00,"Administrative and Support Services, nfd",0.1,0.1,0.0,0.0
+1,O,Public Administration and Safety,880.5,917.3,36.7,4.2
+2,75,Public Administration,630.3,659.3,29.0,4.6
+3,750,"Public Administration, nfd",10.3,10.3,0.0,0.0
+3,751,Central Government Administration,150.0,157.0,7.0,4.7
+3,752,State Government Administration,294.6,309.2,14.6,5.0
+3,753,Local Government Administration,145.1,152.3,7.2,4.9
+3,754,Justice,21.9,22.0,0.1,0.4
+3,755,Government Representation,0.6,0.6,0.0,8.0
+2,76,Defence,27.6,28.4,0.8,3.0
+3,760,Defence,27.6,28.4,0.8,3.0
+2,77,"Public Order, Safety and Regulatory Services",218.9,225.8,6.9,3.2
+3,770,"Public Order, Safety and Regulatory Services, nfd",0.8,0.8,0.0,0.0
+3,771,Public Order and Safety Services,217.1,224.1,7.1,3.3
+3,772,Regulatory Services,2.8,2.7,-0.1,-5.2
+2,O0,"Public Administration and Safety, nfd",0.1,0.1,0.0,0.0
+3,O00,"Public Administration and Safety, nfd",0.1,0.1,0.0,0.0
+1,P,Education and Training,1094.4,1213.0,118.6,10.8
+2,80,Preschool and School Education,673.5,743.4,69.9,10.4
+3,800,"Preschool and School Education, nfd",2.0,2.2,0.2,10.4
+3,801,Preschool Education,70.2,81.9,11.7,16.7
+3,802,School Education,599.6,657.5,57.9,9.7
+2,81,Tertiary Education,254.5,265.9,11.4,4.5
+3,810,Tertiary Education,254.5,265.9,11.4,4.5
+2,82,"Adult, Community and Other Education",164.4,201.7,37.3,22.7
+3,820,"Adult, Community and Other Education, nfd",2.3,2.9,0.5,22.5
+3,821,"Adult, Community and Other Education",157.5,193.6,36.2,23.0
+3,822,Educational Support Services,6.7,7.3,0.6,9.2
+2,P0,"Education and Training, nfd",0.2,0.2,0.0,10.9
+3,P00,"Education and Training, nfd",0.2,0.2,0.0,10.9
+1,Q,Health Care and Social Assistance,1753.6,2003.1,249.5,14.2
+2,84,Hospitals,484.7,553.3,68.5,14.1
+3,840,Hospitals,484.7,553.3,68.5,14.1
+2,85,Medical and Other Health Care Services,560.1,642.9,82.8,14.8
+3,850,"Medical and Other Health Care Services, nfd",28.4,29.8,1.4,5.0
+3,851,Medical Services,220.2,254.8,34.6,15.7
+3,852,Pathology and Diagnostic Imaging Services,54.1,60.8,6.7,12.3
+3,853,Allied Health Services,221.8,257.0,35.2,15.9
+3,859,Other Health Care Services,36.7,41.6,4.9,13.4
+2,86,Residential Care Services,236.6,262.2,25.6,10.8
+3,860,Residential Care Services,236.6,262.2,25.6,10.8
+2,87,Social Assistance Services,470.1,542.6,72.5,15.4
+3,870,"Social Assistance Services, nfd",6.5,6.5,0.0,0.0
+3,871,Child Care Services,139.5,153.8,14.2,10.2
+3,879,Other Social Assistance Services,324.9,383.2,58.3,17.9
+2,Q0,"Health Care and Social Assistance, nfd",0.1,0.1,0.0,14.2
+3,Q00,"Health Care and Social Assistance, nfd",0.1,0.1,0.0,14.2
+1,R,Arts and Recreation Services,235.6,256.3,20.6,8.8
+2,89,Heritage Activities,41.6,42.8,1.1,2.7
+3,890,"Heritage Activities, nfd",0.1,0.1,0.0,0.0
+3,891,Museum Operation,18.7,19.2,0.4,2.3
+3,892,Parks and Gardens Operations,23.8,24.5,0.7,3.0
+2,90,Creative and Performing Arts Activities,48.2,51.2,3.0,6.2
+3,900,Creative and Performing Arts Activities,48.2,51.2,3.0,6.2
+2,91,Sports and Recreation Activities,110.4,127.1,16.8,15.2
+3,910,"Sports and Recreation Activities, nfd",0.1,0.1,0.0,0.0
+3,911,Sports and Physical Recreation Activities,89.3,104.3,15.0,16.8
+3,912,Horse and Dog Racing Activities,9.7,9.9,0.2,1.8
+3,913,Amusement and Other Recreation Activities,12.6,14.2,1.6,12.6
+2,92,Gambling Activities,25.7,25.4,-0.3,-1.0
+3,920,Gambling Activities,25.7,25.4,-0.3,-1.0
+2,R0,"Arts and Recreation Services, nfd",0.2,0.2,0.0,0.0
+3,R00,"Arts and Recreation Services, nfd",0.2,0.2,0.0,0.0
+1,S,Other Services,472.8,481.7,8.9,1.9
+2,94,Repair and Maintenance,223.1,222.0,-1.0,-0.5
+3,940,"Repair and Maintenance, nfd",2.9,2.8,0.0,-0.5
+3,941,Automotive Repair and Maintenance,147.7,148.1,0.4,0.3
+3,942,Machinery and Equipment Repair and Maintenance,61.2,59.0,-2.2,-3.5
+3,949,Other Repair and Maintenance,10.3,11.1,0.7,7.2
+2,95,Personal and Other Services,237.9,247.8,10.0,4.2
+3,950,"Personal and Other Services, nfd",0.1,0.1,0.0,0.0
+3,951,Personal Care Services,102.6,110.7,8.1,7.9
+3,952,"Funeral, Crematorium and Cemetery Services",9.6,9.8,0.3,3.1
+3,953,Other Personal Services,55.7,57.4,1.7,3.0
+3,954,Religious Services,26.4,27.0,0.6,2.3
+3,955,"Civic, Professional and Other Interest Group Services",46.1,45.4,-0.7,-1.6
+2,96,Private Households Employing Staff and Undifferentiated Goods and Service-Producing Activities of Households for Own Use,0.8,0.7,-0.1,-11.8
+3,960,Private Households Employing Staff and Undifferentiated Goods and Service-Producing Activities of Households for Own Use,0.8,0.7,-0.1,-11.8
+2,S0,"Other Services, nfd",0.1,0.1,0.0,0.0
+3,S00,"Other Services, nfd",0.1,0.1,0.0,0.0
+0,,ALL INDUSTRIES,"12,740.6","13,732.3",991.6,7.8
+,,,,,,
+Updated on:,,3/2/2021,,,,
